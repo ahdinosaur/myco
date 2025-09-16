@@ -2,7 +2,23 @@
 
 STATUS: DREAMING
 
-Myco is a dream for a personal plaintext management system: task management, note-taking assistant, activity feed, inventory management, and more.
+Myco is a dream for a plaintext personal management system
+
+- task management
+- knowledge management
+- activity feed
+
+## Workflows
+
+- Journaling, aka (captain's) log
+  - Daily journal
+  - Weekly journal
+  - Quarterly journal
+- Kanban project management
+  - Project
+  - Tasks
+- Random notes, aka scribbles
+- Permanent notes, aka knowledge
 
 ## Types
 
@@ -12,17 +28,11 @@ Each type is referenced by starting with a sigil, a specific single character, t
 
 ### Knowledge: ^
 
-### Journal: &
+### Log: %
 
-### Location: ~
+### Project: &
 
-### Object: $
-
-### Person: @
-
-### Project: %
-
-### Scribble: \
+### Scribble: ~
 
 ### Task: !
 
