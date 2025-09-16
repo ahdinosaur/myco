@@ -1,6 +1,32 @@
 # Myco
 
-Myco is my dream for a personal plain text task management, note-taking assistant, and activity feed.
+STATUS: DREAMING
+
+Myco is a dream for a personal plaintext management system: task management, note-taking assistant, activity feed, inventory management, and more.
+
+## Types
+
+Myco provides a predetermined structure for how to organize types of data.
+
+Each type is referenced by starting with a sigil, a specific single character, to help with autocompletion.
+
+### Knowledge: ^
+
+### Journal: &
+
+### Location: ~
+
+### Object: $
+
+### Person: @
+
+### Project: %
+
+### Scribble: \
+
+### Task: !
+
+### Topic: #
 
 ## Inspiration
 
@@ -17,3 +43,5 @@ Note-taking:
 Activity feed:
 
 - "Digital garden"
+
+Inventory management
